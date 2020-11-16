@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VolleyHW</string>
+    <string name="fieldHeader">Field</string>
+    <string name="valueHeader">Value</string>
+    <string name="DateHeader">Date</string>
+    <string name="MSEHeader">Milliseconds since epoch</string>
+    <string name="TimeHeader">Time</string>
+    <string name="requestButtonHeader">Make request</string>
+</resources>
